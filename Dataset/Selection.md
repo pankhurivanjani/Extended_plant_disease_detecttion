@@ -64,3 +64,5 @@ If large dataset is required in training, few crops will be automatically elimin
 Is it possible to combine two different datasets?
 
 Mostly datasets have a single leaf, multiple leaves part is next challenge. So, should we try looking into this part too?
+
+NO issues with license in any of them 
