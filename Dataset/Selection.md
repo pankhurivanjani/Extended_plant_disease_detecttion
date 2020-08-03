@@ -44,7 +44,7 @@
 
 * KInda 6 years old
 
-7. **Digipathos Plant Disease Image Database == database provided by EMBRAPA (Brazilian Agricultural Research Corporation)
+7. **Digipathos Plant Disease Image Database == database provided by EMBRAPA (Brazilian Agricultural Research Corporation)**
 
 * Soyabean, citrus, coconut, dry bean, corn, passion fruit, coffee,  grapevine, cashew, cassava
 
